@@ -28,9 +28,9 @@ Some clear challenges is debugging stuff, time management; this stuff clearly ta
 While these are challenges, they're good learning points to keep in mind for the future. 
 0ther learning points: 
 
--is for bigger projects like this, why it's important to have an outline IE wireframe/moodboard/pseudo code, so you have a "roadmap" to get stuff done more efficiently and more clearly. 
--
+-For bigger projects like this, why it's important to have an outline IE wireframe/moodboard/pseudo code, so you have a "roadmap" to get stuff done more efficiently and more clearly. 
+*
 -Having a "checkpoint" of sorts whenever I feel like I'm at a "good point" to stop IE: backups, or closing vscode so I can crtl+z back.
--
+*
 -Design wise, make interactables/ website functionalities N O T I C E A B L E, whether it be making it thicc or flashy, but try not to take away too much from other stuff.
--
+*
